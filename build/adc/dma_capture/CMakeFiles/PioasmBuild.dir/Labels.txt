@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/CMakeFiles/PioasmBuild
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/CMakeFiles/PioasmBuild.rule
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/CMakeFiles/PioasmBuild-complete.rule
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+C:/Users/cotaa/Documents/Pico/build/adc/dma_capture/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
