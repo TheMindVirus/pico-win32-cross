@@ -1,7 +1,7 @@
 # pico-win32-cross
 My build folder for cross compiling the C example code for the Raspberry Pi Pico on Windows
 
-Please note that the compiled firmware is EXPERIMENTAL and is in some cases incomplete.
+## Please note that the compiled firmware is EXPERIMENTAL and is in some cases incomplete. ##
 
 # Known Issues
  * There are too many issues to note.
