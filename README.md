@@ -11,6 +11,6 @@ Please note that the compiled firmware is EXPERIMENTAL and is in some cases inco
  * Where possible, elf2uf2 has been run manually. Examples which need pioasm have not.
 
 # Additional Features
- * Fully containerised toolchain in pico-toolchain folder
- * ESP8266 Firmware Included for integrating WiFi onto Pico
- * MicroPython Node-RED REPL UF2 integration included in uf2 folder
+ * Fully containerised toolchain in pico-toolchain folder.
+ * ESP8266 Firmware Included for integrating WiFi onto Pico.
+ * MicroPython Node-RED REPL UF2 integration included in uf2 folder.
