@@ -14,3 +14,6 @@ My build folder for cross compiling the C example code for the Raspberry Pi Pico
  * Fully containerised toolchain in pico-toolchain folder.
  * ESP8266 Firmware included for integrating WiFi onto Pico.
  * MicroPython Node-RED REPL UF2 integration included in uf2 folder.
+
+# Future Work
+ * https://github.com/TheMindVirus/pico-toolchain
